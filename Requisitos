@@ -1,0 +1,65 @@
+1-Cadastro do usuário (RF)
+2- Login no sistema (RF)
+3- Bloquear acesso do usuário após n tentativas
+de acesso sem sucesso (RN)
+4- Liberação de cadastro após conferência do
+Documentação (RF)
+5- Permitir usuário recuperar senha por e-mail
+após identificação. (RNF)
+6- Alterar Senha de usuário pelo próprio ou pela
+área de suporte. (RNF)
+7- Permitir modificação no cadastro (RNF)
+8- Permitir o envio de ordens de compra (OC) (RF)
+9- Cancelamento da ordem de Compra (RNF)
+10- Modificação da ordem de compra (RNF)
+11- Permitir consulta de status da OC (RF)
+12- Permitir OC por quantidade de ações ou por
+Valor financeiro (RNF)
+13- Consultar histórico de OC (RF)
+14- Permitir OC a mercado (RF)
+15- Visualizar OC relacionadas a ação selecionada (RNF)
+16- Permitir envio de OC com gatilho (RNF)
+17- Permitir envio de ordens venda (OV) (RF)
+18- Cancelamento da OV (RNF)
+19- Modificação da OV (RNF)
+20- Permitir consulta de status da OV (RF)
+21- Permitir OV por quantidade de ações ou por
+Valor financeiro (RNF)
+22- Consultar histórico de OV (RF)
+23- Permitir OV a mercado (RF)
+24- Visualizar OV relacionadas a ação selecionada (RNF)
+25- Permitir envio de OV com gatilho (RNF)
+26- Permitir visualizar carteira de ações (RF)
+27- Permitir OC/OV através da tela de carteira do
+Cliente (RF)
+28- Permitir agrupar ações na carteira. (RNF)
+29- Permitir criação de grupos de ação. (RNF)
+30- Permitir compra de ação fracionado/lote
+Automaticamente (RNF)
+31- Permitir Venda de ação fracionado/lote
+Automaticamente (RNF)
+32- Emitir aviso caso cliente esteja negociando no
+mercado fracionário (RF)
+33- Visualizar "Extrato" das ações com todas os
+negócios realizados com ela em um
+determinado período (RF)
+34- Cotação das ações em carteira (RF)
+35- Permitir personalização da visualização de
+Cotações (RNF)
+36- Incluir botão de "negócio rápido" para ações
+em carteira (RF)
+37- Exibir maiores altas e maiores baixas (RF)
+38- Incluir botão de "negócio rápido" para ações
+com maior alta ou maior baixa (RF)
+39- Desenvolver "sugestões" de compra e venda
+Personalizada (RNF)
+40- Configurar Alertas de cotação por e-mail ou
+SMS (RF)
+41- Criar "guia do iniciante" para novos usuários (RF)
+42- Simular opção de negócios (compra/venda) (RF)
+43- Apresentar gráfico intraday e histórico da ação (RF)
+44- Apresentar: valor atual, abertura, fechamento
+anterior, máximo, mínimo (RF)
+45- Enviar alerta por SMS ou e-mail quando acesso for
+bloqueado por excesso de tentativas (RF)
+46- Exibir Data/hora do último login (RNF)
