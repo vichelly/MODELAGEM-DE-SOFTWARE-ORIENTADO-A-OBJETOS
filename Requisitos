@@ -10,8 +10,6 @@ após identificação. (RNF)
 área de suporte. (RNF)
 7- Permitir modificação no cadastro (RNF)
 8- Permitir o envio de ordens de compra (OC) (RF)
-9- Cancelamento da ordem de Compra (RNF)
-10- Modificação da ordem de compra (RNF)
 11- Permitir consulta de status da OC (RF)
 12- Permitir OC por quantidade de ações ou por
 Valor financeiro (RNF)
@@ -20,8 +18,6 @@ Valor financeiro (RNF)
 15- Visualizar OC relacionadas a ação selecionada (RNF)
 16- Permitir envio de OC com gatilho (RNF)
 17- Permitir envio de ordens venda (OV) (RF)
-18- Cancelamento da OV (RNF)
-19- Modificação da OV (RNF)
 20- Permitir consulta de status da OV (RF)
 21- Permitir OV por quantidade de ações ou por
 Valor financeiro (RNF)
@@ -46,8 +42,6 @@ determinado período (RF)
 34- Cotação das ações em carteira (RF)
 35- Permitir personalização da visualização de
 Cotações (RNF)
-36- Incluir botão de "negócio rápido" para ações
-em carteira (RF)
 37- Exibir maiores altas e maiores baixas (RF)
 38- Incluir botão de "negócio rápido" para ações
 com maior alta ou maior baixa (RF)
@@ -62,4 +56,3 @@ SMS (RF)
 anterior, máximo, mínimo (RF)
 45- Enviar alerta por SMS ou e-mail quando acesso for
 bloqueado por excesso de tentativas (RF)
-46- Exibir Data/hora do último login (RNF)
